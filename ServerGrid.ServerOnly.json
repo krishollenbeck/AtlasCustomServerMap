@@ -1,0 +1,46 @@
+{
+  "LocalS3URL": null,
+  "LocalS3AccessKeyId": null,
+  "LocalS3SecretKey": null,
+  "LocalS3BucketName": null,
+  "LocalS3Region": null,
+  "TribeLogConfig": {
+    "MaxRedisEntries": 1000,
+    "BackupMode": "off",
+    "MaxFileHistory": 10,
+    "HttpBackupURL": "",
+    "HttpAPIKey": "",
+    "S3URL": "",
+    "S3AccessKeyId": "",
+    "S3SecretKey": "",
+    "S3BucketName": "",
+    "S3KeyPrefix": ""
+  },
+  "SharedLogConfig": {
+    "FetchRateSec": 60,
+    "SnapshotCleanupSec": 900,
+    "SnapshotRateSec": 1800,
+    "SnapshotExpirationHours": 48,
+    "BackupMode": "off",
+    "MaxFileHistory": 10,
+    "HttpBackupURL": "",
+    "HttpAPIKey": "",
+    "S3URL": "",
+    "S3AccessKeyId": "",
+    "S3SecretKey": "",
+    "S3BucketName": "",
+    "S3KeyPrefix": ""
+  },
+  "TravelDataConfig": {
+    "BackupMode": "off",
+    "MaxFileHistory": 10,
+    "HttpBackupURL": "",
+    "HttpAPIKey": "",
+    "S3URL": "",
+    "S3AccessKeyId": "",
+    "S3SecretKey": "",
+    "S3BucketName": "",
+    "S3KeyPrefix": ""
+  },
+  "DatabaseConnections": null
+}
